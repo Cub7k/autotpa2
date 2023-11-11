@@ -1,0 +1,14 @@
+pluginManagement {
+    repositories {
+        maven {
+
+minecraft_version=1.19.4
+yarn_mappings=1.19.4+build.2
+loader_version=0.14.24
+            name = 'Fabric'
+            url = 'https://maven.fabricmc.net/'
+        }
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
