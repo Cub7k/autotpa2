@@ -1,4 +1,4 @@
-package com.cub.addon.int;
+package com.cub.addon.mixinterface;
 
 import meteordevelopment.meteorclient.renderer.Renderer2D;
 import meteordevelopment.meteorclient.utils.render.color.Color;
